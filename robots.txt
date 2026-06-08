@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuzuirogirume.github.io/aoshima-beach-house/sitemap.xml
